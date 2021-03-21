@@ -24,7 +24,7 @@
         <br>
         <button type="submit" name="submit" value="submit">Calculate</button>
 
-        <p style="color: lime">The answer is: </p>
+        <p style="color: lime">The answerasdas is: </p>
    </form>
 
     
